@@ -7,6 +7,7 @@ It's a Perl script that converts Calibre color map files to KLayout layer proper
 
 Here is how to run it:
 
-   perl calibre2klayout.pl -input calibrelayerfile.txt -verbose
-   
+```
+perl calibre2klayout.pl -input calibrelayerfile.txt -verbose
+```   
 
